@@ -1,0 +1,3 @@
+C:/Users/mikyb/Downloads/testtp/cmake-build-debug/CMakeFiles/testtp.dir
+C:/Users/mikyb/Downloads/testtp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mikyb/Downloads/testtp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
